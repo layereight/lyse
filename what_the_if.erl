@@ -1,7 +1,7 @@
 -module(what_the_if).
 
 %% API
--export([heh_fine/0, oh_god/1, help_me/1]).
+-export([heh_fine/0, oh_god/1, help_me/1, insert/2]).
 
 heh_fine() ->
   if 1 =:= 1 ->

@@ -1,4 +1,4 @@
--module(useless).
+-module(useless01).
 
 %% API
 -export([add/2, hello/0, greet_and_add_two/1, greet/2]).

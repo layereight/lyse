@@ -1,5 +1,5 @@
 
--module(cases).
+-module(cases04).
 
 %% API
 -export([insert/2, beach/1]).

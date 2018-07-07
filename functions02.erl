@@ -1,4 +1,4 @@
--module(functions).
+-module(functions02).
 -compile(export_all).
 
 %% API
